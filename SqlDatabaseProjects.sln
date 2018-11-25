@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "EveOnlineDatabase", "EveOnlineDatabase\EveOnlineDatabase.sqlproj", "{CBB7E05D-0FB1-459E-8D6C-B1454ABEC186}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBB7E05D-0FB1-459E-8D6C-B1454ABEC186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB7E05D-0FB1-459E-8D6C-B1454ABEC186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB7E05D-0FB1-459E-8D6C-B1454ABEC186}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CBB7E05D-0FB1-459E-8D6C-B1454ABEC186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB7E05D-0FB1-459E-8D6C-B1454ABEC186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB7E05D-0FB1-459E-8D6C-B1454ABEC186}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC5D8A38-B97A-471C-8A1E-ED55FE285F25}
+	EndGlobalSection
+EndGlobal
